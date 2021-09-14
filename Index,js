@@ -1,0 +1,13 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import index from './index.css';
+import {BrowserRouter} from "react-router-dom";
+import Receipe from "./Receipe";
+
+
+ReactDOM.render(
+        <BrowserRouter> 
+        <Receipe/>
+        </BrowserRouter>
+
+,document.getElementById('root'));
