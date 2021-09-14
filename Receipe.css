@@ -1,0 +1,81 @@
+
+.ReceipeMainDiv3
+{
+  border: 2px solid green;
+  width: 30%;
+  height: 200px;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.receipe_h2 
+{
+  margin: 5%;
+  text-align: center;
+  font-size: 3rem;
+  margin-left: 17%;
+}
+
+.ReceipeMain2SearchBar
+{
+  display: flex;
+}
+.ReceipeMain input
+{
+  width: 80%;
+  height: 70px;
+  margin-right: 1%;
+  font-size: 1.75rem;
+  margin-left: 6%;
+  margin-bottom: 2%;
+}
+.Receipe3Main
+{
+  width: 312px;
+  height: 340px;
+  margin-left: 6%;
+  box-shadow: 0;
+}
+.Receipe_img2
+{
+  height: 180px;
+  box-shadow: 0px 0px 0px 0px;
+  border-radius: 0%;
+}
+.Receipe3Mainp1
+{
+  font-weight: 500;
+}
+.Receipe3Mainp2
+{
+  margin-top: -5%;
+}
+.ReceipeListForReceipeFilterDivWithNoData
+{
+  width: 100%;
+  height: 340px;
+  border: 2px solid white;
+  margin-bottom: 20%;
+}
+.Receipe1ForReceipe_h51
+{
+  position: absolute;
+  left: 47%;
+  bottom: 45%;
+  color: rgb(238, 228, 228);
+}
+.Receipe1ForReceipeSubDiv1
+{
+  width: 70%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 5%;
+  font-size: 1.75rem; 
+}
+.Receipe1ForReceipeSubDiv2
+{
+  width: 97%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 5%;
+
+}
